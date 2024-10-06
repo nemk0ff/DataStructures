@@ -1,2 +1,2 @@
-# DataStructure
-Full implementation of Data Structure of C++
+# DataStructures
+Full implementation of Data Structures of C++
